@@ -13,3 +13,6 @@ Category: Quotes
 
 <br/>
 "Be kind, for everyone you meet is fighting a hard battle"
+
+<br/>
+"No one is actually dead until the ripples they cause in the world die away"
